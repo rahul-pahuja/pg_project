@@ -1,0 +1,29 @@
+.head{
+	-fx-font-size: 3.2em;
+	-fx-fill: black;
+}
+.para{
+	-fx-font-size: 1.7em;
+}
+.btnn{
+	-fx-background-color: transparent;
+	-fx-border-color: black;
+	-fx-text-fill: black;
+}
+.btnn:hover{
+	-fx-background-color: #5FABE9;
+	-fx-text-fill: white;
+	-fx-border-color: transparent;
+}
+.tfield{
+	-fx-border-color: black;
+	-fx-background-color:-fx-control-inner-background;
+	-fx-background-insets: 0;
+}
+.rect{
+	-fx-fill: white;
+	-fx-opacity: 0.5;
+}
+.text{
+	-fx-font-size: 1.5em;
+}
